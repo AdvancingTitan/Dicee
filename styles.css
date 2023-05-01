@@ -1,0 +1,47 @@
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 8rem;
+  color: #4ECCA3;
+  margin: 30px;
+}
+
+p {
+  font-size: 2.5rem;
+  font-family: fantasy;
+}
+
+footer{
+  text-align: center;
+  color: white;
+}
+
+/* Containers */
+
+.container {
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  margin-bottom: 5%;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+  margin: 0 10px;
+
+}
+
+/* Images */
+
+.img1 {
+
+}
+
+.img2{
+
+}
